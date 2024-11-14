@@ -42,7 +42,7 @@ namespace proect5
 
         public void SetParams(double scaleFactor)
         {
-            Side1 *= scaleFactor;
+            Side1 *= scaleFactor;//github artem lox
             Side2 *= scaleFactor;
             Side3 *= scaleFactor;
         }
